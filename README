@@ -1,0 +1,11 @@
+# Clik's Coding Challenge
+
+Please follow below instructions to run the algorithm -
+
+# Prerequisites -
+1. Install Node.js - 8.x
+2. Set Path environment variable for node
+
+# Steps to run -
+1. node shortlistingAlgo.js
+2. node main.js
